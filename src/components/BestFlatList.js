@@ -12,7 +12,7 @@ export default class BestFlatList extends Component {
         const settings = {
             infinite: true,
             speed: 1500,
-            slidesToShow: 4,
+            slidesToShow: 6,
             slidesToScroll: 1,
             autoPlay: true,
             arrows: false,
